@@ -10,4 +10,4 @@ Steps:
 
 4. > ollama serve
 
-5. python3 chatbot.py
+5. > python3 chatbot.py
