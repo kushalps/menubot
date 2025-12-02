@@ -1,5 +1,6 @@
 Menu Chatbot
-uses locally hosted phi3 model
+
+Uses locally hosted phi3 model
 
 Steps:
 1. > Install dependencies:
